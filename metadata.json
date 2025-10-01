@@ -1,0 +1,7 @@
+{
+  "name": "Foundry Centrifuge Wobble Detector",
+  "description": "A computer vision diagnostic app that monitors a foundry centrifuge's wheels for wobble and imbalance. It uses a device camera to track reflective tape on each wheel, calculates real-time deviation, and uses Gemini to provide diagnostic insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
